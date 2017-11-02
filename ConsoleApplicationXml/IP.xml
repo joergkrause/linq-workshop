@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"  ?>
+<fragment>
+  <sessions conference="BASTA">
+    <session sequence="1">
+      <title>SharePoint als Entwicklerplattform</title>
+      <name>Joerg Krause</name>
+    </session>
+    <session sequence="2">
+      <title>Advanced LINQ</title>
+      <name>Joerg Krause</name>
+    </session>
+  </sessions>
+</fragment>
